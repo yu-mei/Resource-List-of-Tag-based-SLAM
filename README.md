@@ -31,4 +31,5 @@
 - Paper link: http://www.cs.cmu.edu/~kaess/pub/Westman18tr.pdf
 - It uses GTSAM: https://github.com/borglab/gtsam
 - https://gtsam.org/tutorials/intro.html
-  (Updated on 08/05/2022)
+
+(Updated on 08/05/2022)
